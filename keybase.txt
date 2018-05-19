@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/deftware
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://deftware.me
+  * I am deftware (https://keybase.io/deftware) on keybase.
+  * I have a public key with fingerprint EEAE 3293 C261 B19B B74A  E7DB 8FF9 1A59 657D 9280
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f8d63d00cbebb76ae4a0ba229a6ed8b2f9a4f13d9f7ee8c5c2ddd464e77db5220a",
+      "fingerprint": "eeae3293c261b19bb74ae7db8ff91a59657d9280",
+      "host": "keybase.io",
+      "key_id": "8ff91a59657d9280",
+      "kid": "0101f8d63d00cbebb76ae4a0ba229a6ed8b2f9a4f13d9f7ee8c5c2ddd464e77db5220a",
+      "uid": "e8e56dfd743c8136a8d03a0f61eda619",
+      "username": "deftware"
+    },
+    "service": {
+      "hostname": "deftware.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1513265295,
+  "expire_in": 157680000,
+  "prev": "ca11bacd3057d47086b8ad8d6255d12bdb711d78c33dbf3583c7d75b787a0a2a",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSBVBGD4nzcuRsguUCFFsdUw5ys7O2dvJqJcKyywoCiw6zOzM6mad
+Pe5ZNZOkGwlRiYmUBaZp9VCKaVhUSoXdJUMoKgoprYgsCMMuFjUr9RI9Ni/D/8/3
+ffP9H3/3hCiXxz3RKse31tWedd+7VlPkyhWOVJZx2CSlXKCMK6BjF91MaMQOFhiE
+C3A84IGuEAkSntcwxViWEPUjHiNBUJFEiYIFXUV+HUCi6jKliiZqAiHEL/mpLBMs
+CgKPOB+nG6E8aoUtI2QzWUoRhYIKNUECGKhM1o8oQyu6rgIkqpIoE1VQeEbMNyMO
+g5nDKEIzDJP1WBEcs/cP/H/2XTQmRxUqSkQnsh9qCoASUggPEa9LgBIkAdUBRqgV
+QlsoQxOq2yXIotx2H8e6xYZGnWCdSf5CZLDKx4Ut0zY1czN7yLftcMDh2aVhB1hC
+cfC3RBAbIcJSZIRiakUMM8QFAENqtuFoAhFAQRIFVfRxdGvYsGjQcBCiLCk8O843
+tJhJaggAjDQCeRaaX+YVCSuIsKwEUSRAwATLABBZ0SAkWIeiAjWZyCKWFRnxSHBC
+idDCkMkFVGYT5THJiJEXQnaRM/H1qxuiXW6PK2b8OGe7XJ74SX92bo0v9ufSZbWT
+ryB3XWKc/2jihdqmwoxTSYtqlgXiDj5K2337rrf7W+mtzwNtwcpm7bH38oLW6j7j
+U+a2488TWkpzrnkX7+s76h3ds/zMgZclQw1RU1Lg67nTo7vqv+fPrNrUMOKt8bUk
+ey7dTChIud+4tzO1t6q6pzO9ol/OXv81bfXOzKdH8p7M3+E7/LE+PQG+W/vjQ25B
+W91o+0hHfO+5iotNV/rcwLNk44aFQ+13smdNfbtL77LOJyXsP7kidqBndlmznTPj
+hdlRkVh3DL5ZkdW4MKusJfVEb3xweMppuOoVuTjpBowdHIreMtjQmvzs4crhrC+j
+D/rnxayN6zlUuK/8fU72tDldvwDzh0JH
+=ZLy4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/deftware
+
+==================================================================
